@@ -109,7 +109,7 @@ $(document).ready(function(){
 			guessesLeft = 7;
 			search_start = 0;
 			$("#guessesLeft").html(guessesLeft);
-			//ct.clearRect(0,0,c.width,c.height);
+			ct.clearRect(0,0,c.width,c.height);
 			//clearC = true;
 			//console.log(clearC);
 	});
